@@ -14,4 +14,8 @@
 * Express.js
 * MongoDB
 
+### Связь со мной:
+* Telegram: @scanlin
+* Vk: https://vk.com/scanlin
+* mail: inknw1999@mail.ru
 
