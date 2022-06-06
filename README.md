@@ -5,14 +5,17 @@
 * Стремлюсь к совершенствованию навыков 📈
 
 ### Мои навыки:
+* Figma
+* Inkscape
 * HTML5
 * CSS3
-* Git
+* Bootstrap
 * JS
-* React
+* React.js
 * Node.js
 * Express.js
 * MongoDB
+* Git
 
 ### Связь со мной:
 * Telegram: @scanlin
