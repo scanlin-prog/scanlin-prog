@@ -7,15 +7,18 @@
 ### Мои навыки:
 * Figma
 * Inkscape
-* HTML5
-* CSS3
+* HTML/Pug
+* CSS(SCSS)
 * Bootstrap
 * JS
-* React.js
+* Python
+* React
+* Vue / Nuxt (2, 3)
 * Node.js
-* Express.js
+* Express
 * MongoDB
 * Git
+* CI/CD
 
 ### Связь со мной:
 * Telegram: @scanlin
