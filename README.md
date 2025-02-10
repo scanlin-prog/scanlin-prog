@@ -7,8 +7,8 @@
 ### Мои навыки:
 * Figma
 * Inkscape
-* HTML/Pug
-* CSS(SCSS)
+* HTML / Pug
+* CSS / SCSS
 * Bootstrap
 * JS
 * Python
