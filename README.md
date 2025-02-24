@@ -12,6 +12,7 @@
 * Bootstrap
 * JS
 * Python
+* Django
 * React
 * Vue / Nuxt (2, 3)
 * Node.js
@@ -19,6 +20,7 @@
 * MongoDB
 * Git
 * CI/CD
+* Docker
 
 ### Связь со мной:
 * Telegram: @scanlin
