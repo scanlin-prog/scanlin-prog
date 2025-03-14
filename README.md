@@ -17,6 +17,8 @@
 * Vue / Nuxt (2, 3)
 * Node.js
 * Express
+* Prisma
+* Mongoose
 * MongoDB
 * Git
 * CI/CD
